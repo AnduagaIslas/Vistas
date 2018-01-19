@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>vistas plataforma de criptomoneda</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/estilos.css">
     <link rel="stylesheet" href="./js/bootstrap.min.js">
   </head>
   <body>
@@ -16,7 +17,7 @@
               <button type="button" class="btn btn-light"><i class="fas fa-sign-in-alt"></i> Iniciar sesion</button>
           </div>
           <div class="col-md-2">
-            <button type="button" class="btn btn-light">Registrarse</button>
+            <button type="button" class="btn btn-light"><i class="fas fa-plus-circle"></i> Registrarse</button>
           </div>
 
         </nav>
