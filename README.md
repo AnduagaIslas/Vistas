@@ -1,0 +1,2 @@
+# Vistas
+vista para pastecoin
