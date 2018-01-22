@@ -123,7 +123,7 @@
                 <a class="nav-link" href="Pagos.php">PAGOS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Transacciones.php">TRANSACCIONES</a>
+                <a class="nav-link" href="Transaccion.php">TRANSACCIONES</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="Compras.php">COMPRAS</a>
