@@ -13,13 +13,13 @@ include('recursos/head.php');
   <div class="col-md-8">
     <ul class="nav ">
       <li class="nav-item">
-        <a class="nav-link" href="#">COIN/USD $14.90</a>
+        <a class="nav-link" href="#" data-toggle="tooltip" data-placement="top" title="precio de nuestra moneda frente al dollar">COIN/USD $14.90</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Compra $14.91</a>
+        <a class="nav-link" href="#"data-toggle="tooltip" data-placement="top" title="precio de compra de nuestra moneda">Compra $14.91</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Venta $15.00</a>
+        <a class="nav-link" href="#"data-toggle="tooltip" data-placement="top" title="precio de venta de nuestra moneda">Venta $15.00</a>
       </li>
     </ul>
   </div>
