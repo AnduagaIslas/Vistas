@@ -26,10 +26,13 @@ include('recursos/head.php');
     </ul>
   </div>
 </div>
+<br>
 <div class="row text-center">
-  <div class="col-md-4">
+  <div class="col-md-3">
     <h3>CONTRATOS</h3>
 
+  </div>
+  <div class="col-md-1">
   </div>
   <div class="col-md-8">
     <ul class="nav ">
@@ -45,6 +48,28 @@ include('recursos/head.php');
     </ul>
   </div>
 </div>
+<div class="row container-fluid">
+  <div class="col-3">
+    <div class="list-group">
+
+      <button type="button" class="list-group-item list-group-item-action">Contrato de renta mensual $1,200.00</button>
+      <button type="button" class="list-group-item list-group-item-action">Dapibus ac facilisis in</button>
+      <button type="button" class="list-group-item list-group-item-action">Dapibus ac facilisis in</button>
+      <button type="button" class="list-group-item list-group-item-action">Dapibus ac facilisis in</button>
+      <button type="button" class="list-group-item list-group-item-action">Morbi leo risus</button>
+      <button type="button" class="list-group-item list-group-item-action">Porta ac consectetur ac</button>
+
+    </div>
+
+  </div>
+  <div class="col-1">
+
+  </div>
+  <div class="col-8">
+    <img src="img/grafica-normal.jpg" alt="">
+</div>
+<br>
+<br>
 <?php
 include('recursos/footer.php');
 ?>
