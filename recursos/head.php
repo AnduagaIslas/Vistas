@@ -63,7 +63,7 @@
             <div class="modal-dialog" role="document">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Iniciar Sesion</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">Registrarse</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -120,6 +120,9 @@
           <div class="col-md-8">
             <ul class="nav menu">
               <li class="nav-item">
+                <a class="nav-link" href="index.php">INICIO</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="Pagos.php">PAGOS</a>
               </li>
               <li class="nav-item">
@@ -132,7 +135,7 @@
                 <a class="nav-link" href="Fondo-Social.php">FONDO SOCIAL</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Asistencia.php">ASISTENCIA</a>
+                <a class="nav-link" href="Asistencia.php">ASISTENCIA <i class="far fa-question-circle"></i></a>
               </li>
 
             </ul>
