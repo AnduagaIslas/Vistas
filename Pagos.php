@@ -13,8 +13,18 @@ include('recursos/head.php');
           <h5 class="card-title">Contrato numero 2</h5>
           <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <h4 class="text-center">Monto a pagar: $13,900.00</h4>
-          <a href="#" class="btn btn-light">nueva fecha</a>
-          <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          <div class="col-md-4">
+            <select class="custom-select">
+              <option selected>Contratar por mas tiempo</option>
+              <option value="1">One</option>
+              <option value="2">Two</option>
+              <option value="3">Three</option>
+            </select>
+          </div>
+          <div class="col-md-12 text-center">
+            <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          </div>
+
           <!-- Modal -->
           <div class="modal fade" id="pagoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -65,8 +75,17 @@ include('recursos/head.php');
           <h5 class="card-title">Contrato numero 1</h5>
           <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <h4 class="text-center">Monto a pagar: $13,900.00</h4>
-          <a href="#" class="btn btn-light">nueva fecha</a>
-          <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          <div class="col-md-4">
+            <select class="custom-select">
+              <option selected>Contratar por mas tiempo</option>
+              <option value="1">One</option>
+              <option value="2">Two</option>
+              <option value="3">Three</option>
+            </select>
+          </div>
+          <div class="col-md-12 text-center">
+            <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          </div>
         </div>
       </div>
     </div>
@@ -80,8 +99,17 @@ include('recursos/head.php');
           <h5 class="card-title">Contrato numero 5</h5>
           <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <h4 class="text-center">Monto a pagar: $13,900.00</h4>
-          <a href="#" class="btn btn-light">nueva fecha</a>
-          <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          <div class="col-md-4">
+            <select class="custom-select">
+              <option selected>Contratar por mas tiempo</option>
+              <option value="1">One</option>
+              <option value="2">Two</option>
+              <option value="3">Three</option>
+            </select>
+          </div>
+          <div class="col-md-12 text-center">
+            <button type="button" class="btn btn-light"data-toggle="modal" data-target="#pagoModal">Pagar</button>
+          </div>
         </div>
       </div>
     </div>
