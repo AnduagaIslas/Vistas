@@ -44,7 +44,7 @@ input {
   text-align: center;
   align:right;
 }
-<<<<<<< HEAD
+
 .content-all{
   margin: auto;
   width: 210px;
@@ -118,8 +118,8 @@ input {
   }do{
     transform: rotateY(360deg);
   }
-=======
+
 .contrato{
   margin:10px;
->>>>>>> eadd43681d3c2d9d95c01263833569db1654faad
+
 }
