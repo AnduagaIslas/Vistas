@@ -8,19 +8,19 @@ include('recursos/head.php');
   <div class="col-md-8">
     <ul class="nav menu">
       <li class="nav-item">
-        <a class="nav-link" href="#">PAGOS</a>
+        <a class="nav-link" href="Pagos.php">PAGOS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">TRANSACCIONES</a>
+        <a class="nav-link" href="Transacciones.php">TRANSACCIONES</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">COMPRAS</a>
+        <a class="nav-link" href="Compras.php">COMPRAS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">FONDO SOCIAL</a>
+        <a class="nav-link" href="Fondo-Social.php">FONDO SOCIAL</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">ASISTENCIA</a>
+        <a class="nav-link" href="Asistencia.php">ASISTENCIA</a>
       </li>
 
     </ul>
