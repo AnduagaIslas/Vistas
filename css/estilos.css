@@ -5,3 +5,13 @@
 .menu{
   margin-top: 5em;
 }
+.marginleft{
+  margin-left: 2em;
+  margin-top: 2em;
+}
+.marginright{
+  margin-right: 2em;
+}
+.titulomargin{
+  margin-left: 2em;
+}
