@@ -135,7 +135,7 @@
                 <a class="nav-link" href="Fondo-Social.php">FONDO SOCIAL</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Asistencia.php">ASISTENCIA</a>
+                <a class="nav-link" href="Asistencia.php">ASISTENCIA <i class="far fa-question-circle"></i></a>
               </li>
 
             </ul>
