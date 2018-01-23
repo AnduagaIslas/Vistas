@@ -44,7 +44,7 @@ include("recursos/head.php")
         </p>
         <p>ndejjhkjnd8943r823endndl32jeoi</p>
       </div>
-      <div class="">
+      <div>
         <p>
           <h4>Tiempo de ayuda restante:</h4>
         </p>
@@ -55,6 +55,7 @@ include("recursos/head.php")
     </form>
   </div>
 </div>
+
 <div class="row">
   <div class="col-sm-2">
   </div>
@@ -95,9 +96,11 @@ include("recursos/head.php")
     </div>
   </div>
   <div class="col-sm-2">
+  <div>
+    prueba
+  </div>
   </div>
 </div>
-
 
  <?php
 include("recursos/footer.php")
