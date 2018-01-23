@@ -60,6 +60,7 @@ include("recursos/head.php")
   <div class="col-sm-2">
   </div>
   <div class="col-sm-8">
+    <div class="content-pops">
     <div class="content-all">
       <div class="content-carrusel">
         <figure>
@@ -95,9 +96,10 @@ include("recursos/head.php")
       </div>
     </div>
   </div>
+  </div>
   <div class="col-sm-2">
-  <div>
-    prueba
+  <div class="prueba">
+    <br>
   </div>
   </div>
 </div>

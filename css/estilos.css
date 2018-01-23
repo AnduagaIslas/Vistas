@@ -44,10 +44,13 @@ input {
   text-align: center;
   align:right;
 }
-<<<<<<< HEAD
-=======
+.content-pops{
+  margin-top: 3em;
 
->>>>>>> 0e61c10c8fd558a0eb31d36febc4871a88168e46
+}
+.prueba{
+  margin-top: 16em;
+}
 .content-all{
   margin: auto;
   width: 180px;
@@ -122,15 +125,9 @@ input {
   }to{
     transform: rotateY(360deg);
   }
-<<<<<<< HEAD
 }
 
 .contrato{
   margin:10px;
-=======
 
-.contrato{
-  margin:10px;
-
->>>>>>> 0e61c10c8fd558a0eb31d36febc4871a88168e46
 }
